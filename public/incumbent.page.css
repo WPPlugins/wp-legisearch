@@ -1,0 +1,50 @@
+.legisearch-incumbent-partydistrict li {
+	display: inline;
+	font-style: italic;
+	color: #888;
+}
+li.legisearch-incumbent-party:before {
+	content:'\2014';
+	padding-right:5px;
+}
+li.legisearch-incumbent-district:before {
+	content:'\2014';
+	padding-right:5px;
+}
+.legisearch-incumbent-photo {
+	float: right;
+}
+ul.legisearch-contact-office {
+	margin-bottom: 15px;
+	list-style-type: none;
+}
+.legisearch-contact-office-title {
+	display:block;
+	font-weight: bold;
+}
+.legisearch-contact-title {
+	font-weight: bold;
+	display: inline;
+}
+.legisearch-contact-data {
+	margin-bottom: 5px;
+}
+.legisearch-contact-address {
+	display: block;
+}
+.legisearch-vote-table {
+	width: auto;
+}
+.legisearch-vote-table td.vote-date {
+	white-space: nowrap;
+}
+.legisearch-vote-table th {
+	background-color: #ccc;
+}
+.voted-against td {
+	color: #C11B17 !important;
+}
+.voted-with td {
+	color: #04B431 !important;
+}
+

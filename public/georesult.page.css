@@ -1,0 +1,31 @@
+.legisearch-georesult {
+	float: left;
+	width: 100%;
+}
+
+div.legisearch-geo-legislator {
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	border-radius: 10px;
+	padding: 10px;
+	border: 1px solid #000;
+	float: left;
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+div.legisearch-geo-upper-legislator {
+	background-color: #eef;
+}
+div.legisearch-geo-lower-legislator {
+	background-color: #fee;
+}
+
+.legisearch-googlemap {
+	height:400px;
+	width:100%;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	float:right;
+}

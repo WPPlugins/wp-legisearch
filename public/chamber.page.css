@@ -1,0 +1,17 @@
+ul.legisearch-chamber-listing {
+	columns: 2;
+  	-webkit-columns: 2;
+  	-moz-columns: 2;
+}
+li.legisearch-chamber-item {
+	list-style: none;
+}
+
+.legisearch-chamber-item-name {
+	display: block;
+}
+.legisearch-chamber-item-district {
+	display: block;
+	margin-bottom: 5px;
+}
+
